@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body
+{
+background-color: black;
+color: write;
+font-size: 15pt;
+font-family:Arial;
+}
+
+h1
+{ 
+  color: write;
+  font-size: 22pt;
+}
